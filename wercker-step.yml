@@ -1,5 +1,5 @@
 name: step-toms-coverage-report
-version: 0.1
+version: 0.0.1
 description: TOMs product coverage report to slack
 properties:
   webhook_url:
